@@ -1,8 +1,8 @@
 {
-  "name": "vue-blog-demo",
+  "name": "blog-for-JRA-sjtu",
   "version": "1.0.0",
-  "description": "A Vue.js blog demo to demonstrate proper decoupling of api data and swapping of resources/providers",
-  "author": "Nicolas Udy <dev@udy.io>",
+  "description": "A Vue.js blog blog for Jade Ribbon Association of Shanghai Jiaotong University. Based on [snipcart/vue-blog-demo](https://github.com/snipcart/vue-blog-demo)",
+  "author": "Sebastianj1w <sebastianj1w@sjtu.edu.cn>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
